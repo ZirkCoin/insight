@@ -299,7 +299,7 @@ input,button,select,textarea {
 }
 
 a {
-    color: #c62b39;
+    color: #00a5d9;
     text-decoration: none;
 }
 
@@ -6466,7 +6466,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 }
 
 .navbar-form .form-control {
-    background-color: #c62b39;
+    background-color: #00a5d9;
     border-radius: 3px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -6519,7 +6519,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 .status {
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
-    background-color: #c62b39;
+    background-color: #00a5d9;
     border-radius: 3px;
     margin: 15px 0;
     padding: 8px 10px;
@@ -6640,7 +6640,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 
 .btn-primary {
     background-color: #000;
-    border: 2px solid #c62b39;
+    border: 2px solid #00a5d9;
 }
 
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary,.btn-success:hover,.btn-success:focus,.btn-success:active,.btn-success.active,.open .dropdown-toggle.btn-success,.btn-danger:hover,.btn-danger:focus,.btn-danger:active,.btn-danger.active,.open .dropdown-toggle.btn-danger {
@@ -6651,7 +6651,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 
 .btn-default:hover,.btn-default:focus,.btn-default:active,.btn-default.active,.open .dropdown-toggle.btn-default {
 	color: white;
-    background-color: #c62b39;
+    background-color: #00a5d9;
     border-color: #e51966;
 }
 
@@ -6660,7 +6660,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 }
 
 .btn-success {
-    background-color: #c62b39;
+    background-color: #00a5d9;
     border: 2px solid #237FA7;
 }
 
@@ -6699,7 +6699,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 }
 
 .txvalues-success {
-    background-color: #c62b39;
+    background-color: #00a5d9;
 }
 
 .txvalues-danger {
